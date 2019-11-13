@@ -53,4 +53,4 @@ for (i=0;i<a.length;i++){
 f=0;
 }
 
-alert(max);s
+alert(max);
